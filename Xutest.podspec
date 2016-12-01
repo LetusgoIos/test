@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
 	s.name	=	'Xutest'
 	s.version = 	'1.0'
 	s.summary = 	'jiandan'
-	s.homepage = 'https://github.com/LetusgoIos/test'
+	s.homepage = 'https://github.com/LetusgoIos'
 	s.license =	'MIT'
 	s.platform = :ios
 	s.author = 	{'1070247041@qq.com' => '1070247041@qq.com'}
